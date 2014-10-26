@@ -5,8 +5,6 @@
 ## Functions to caclulate and cache the inverse of a given matrix
 ##
 ##
-## Example: 
-##
 
 
 ## Function which creates a matrix object that can cache its inverse
